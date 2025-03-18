@@ -9,4 +9,4 @@ has_children: true
 
 | 一覽表 |
 | ----- |
-| [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-garuda-kde-plasma/read/cheatsheet/keybind.html) |
+| [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-garuda-i3wm/read/cheatsheet/keybind.html) |
